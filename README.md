@@ -1,16 +1,31 @@
-# flutterlol
+# Flutter LOL
+Flutter Toy Project #4 - Provider Study
 
-A new Flutter application.
+Using the League of Legends resource to practice the Provider
 
-## Getting Started
+<img src="./readme/1.png" width="300"/> <img src="./readme/2.png" width="300"/>
+<img src="./readme/3.png" width="300"/> <img src="./readme/4.png" width="300"/>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Speed Code
+[![Watch Shop Speed Code](./readme/youtube.png)](https://youtu.be/RcenhheM3C0)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Reference
+
+League of Legends Data👇🏻
+1. Developer RiotGames
+* https://developer.riotgames.com
+
+2. Policies
+* https://developer.riotgames.com/policies/general
+
+3. Data Resources
+* https://developer.riotgames.com/docs/lol#data-dragon_champions
+
+
+
+
+
+FlutterLOL isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
